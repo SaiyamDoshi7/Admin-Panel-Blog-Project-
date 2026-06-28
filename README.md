@@ -30,41 +30,42 @@ A professional Admin Panel developed using **Node.js, Express.js, MongoDB, EJS, 
 
 ## 🏠 Dashboard
 
-<img width="1904" height="987" alt="Screenshot 2026-06-28 212759" src="https://github.com/user-attachments/assets/4adce8bc-1a45-4062-b5e1-4b253d1e5277" />
+<img width="1904" height="987" alt="Screenshot 2026-06-28 212759" src="https://github.com/user-attachments/assets/d32f3679-b3d3-43e2-8245-7bb2c6b3bcea" />
+
 
 
 ---
 
 ## ➕ Add Admin
 
-<img width="1902" height="990" alt="Screenshot 2026-06-28 212849" src="https://github.com/user-attachments/assets/670ca90f-5359-4d77-9367-7f854511c2ae" />
+<img width="1902" height="990" alt="Screenshot 2026-06-28 212849" src="https://github.com/user-attachments/assets/0efaec14-d2ae-4cfc-bc3b-c983fccefbd0" />
 
 
 ---
 
 ## 📋 View Admin
 
-<img width="1900" height="981" alt="Screenshot 2026-06-28 213004" src="https://github.com/user-attachments/assets/d58f02c0-4b27-453c-b76a-03c89b610e2e" />
+<img width="1900" height="981" alt="Screenshot 2026-06-28 213004" src="https://github.com/user-attachments/assets/28da5b47-b901-4b0e-94fd-7aad28c58c08" />
 
 
 ---
 
 ## ✏️ Edit Admin
 
-<img width="1895" height="945" alt="Screenshot 2026-06-28 213103" src="https://github.com/user-attachments/assets/920bd5be-0606-459c-9f27-245622a900c1" />
+<img width="1895" height="945" alt="Screenshot 2026-06-28 213103" src="https://github.com/user-attachments/assets/3e4f9834-10e5-4691-bc62-33249ddc494d" />
 
 ---
 
 ## 🔑 Login Page
 
-<img width="1902" height="986" alt="Screenshot 2026-06-28 212655" src="https://github.com/user-attachments/assets/b809c719-4bef-4886-8883-108d7e8ea8c4" />
+<img width="1902" height="986" alt="Screenshot 2026-06-28 212655" src="https://github.com/user-attachments/assets/f06d384f-c71a-479e-9a5a-cd18f279c202" />
 
 
 ---
 
 ## 📝 Signup Page
 
-<img width="1915" height="988" alt="Screenshot 2026-06-28 213154" src="https://github.com/user-attachments/assets/b2e87aa8-d879-4521-a5a1-ae2bc2b3974d" />
+<img width="1915" height="988" alt="Screenshot 2026-06-28 213154" src="https://github.com/user-attachments/assets/7766b3bb-3dbf-445a-9d12-9a1a58e74d96" />
 
 
 ---
