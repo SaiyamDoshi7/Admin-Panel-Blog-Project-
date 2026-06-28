@@ -127,8 +127,18 @@ module.exports.addAdminPage = (req, res) => {
 
 module.exports.insertAdmin = async (req, res) => {
     try {
+
+        const checkEmail = await Admin.findOne({
+            email: req.body.email
+        });
+
+        if (checkEmail) {
+            console.log("Email Already Exists");
+            return res.send("Email Already Exists");
+        }
+
         if (req.file) {
-            req.body.avatar = Admin.imagePath + '/' + req.file.filename;
+            req.body.avatar = Admin.imagePath + "/" + req.file.filename;
         }
 
         req.body.password = await bcrypt.hash(req.body.password, 10);
@@ -137,12 +147,19 @@ module.exports.insertAdmin = async (req, res) => {
 
         console.log("Admin Added Successfully...!");
 
-        return res.redirect('/');
+        return res.redirect("/view-admin");
+
     } catch (err) {
+
+        if (err.code === 11000) {
+            console.log("Duplicate Email");
+            return res.send("Email Already Exists");
+        }
+
         console.log(err);
+        return res.send("Something Went Wrong");
     }
 };
-
 module.exports.viewAdminPage = async (req, res) => {
     try {
         const adminData = await Admin.find();
