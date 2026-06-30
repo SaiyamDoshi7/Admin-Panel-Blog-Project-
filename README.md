@@ -22,7 +22,7 @@ A professional Admin Panel developed using **Node.js, Express.js, MongoDB, EJS, 
 
 ### 🎬 Project Presentation Video
 
-👉 **YOUR_VIDEO_LINK**
+👉 https://drive.google.com/file/d/1OukTg9jZZhjlPg4hMu4EDpLABgR28NKE/view?usp=sharing
 
 ---
 
